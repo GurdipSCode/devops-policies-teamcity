@@ -1,4 +1,4 @@
-# Terraform OPA Policies for Teamcity
+# devops-policies-teamcity
 
 Open Policy Agent (OPA) policies for validating Terraform configurations using the **teamcity** provider.
 
